@@ -119,8 +119,6 @@ JWT_EXPIRE=7d
 PORT=5000
 NODE_ENV=development
 
-
-
 # Email Configuration (for notifications)
 EMAIL_SERVICE=gmail
 EMAIL_USER=your-email@gmail.com
@@ -198,7 +196,6 @@ ecommerce-sales-chatbot/
 2. **Manage Products** - Add, edit, or remove products
 3. **View Analytics** - Monitor sales and user engagement
 
-
 ## 🧪 Testing
 
 ```bash
@@ -257,7 +254,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/Mrfarooqui038501/SalesChatBot.git) section
+1. Check the [Issues](https://github.com/Mrfarooqui038501/SalesChatBot/issues) section
 2. Create a new issue with detailed information
 3. Contact the development team at armanfarooqui078601@gmail.com
 
@@ -267,5 +264,4 @@ For detailed information about updates and changes, see [CHANGELOG.md](CHANGELOG
 
 ---
 
-**Built with ❤️ using the MERN Stack + Vite**#   S a l e s B o t  
- 
+**Built with ❤️ using the MERN Stack + Vite**
