@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Smartphone X",
+        "category": "Electronics",
+        "price": 599.99,
+        "description": "Latest smartphone with 128GB storage and advanced camera features",
+        "image": "smartphone_x.jpg",
+        "stock": 50
+    },
+    {
+        "name": "Laptop Pro",
+        "category": "Electronics",
+        "price": 1299.99,
+        "description": "High-performance laptop with 16GB RAM and 512GB SSD",
+        "image": "laptop_pro.jpg",
+        "stock": 25
+    },
+    {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "price": 199.99,
+        "description": "Noise-cancelling wireless headphones with 30-hour battery life",
+        "image": "headphones.jpg",
+        "stock": 100
+    },
+    {
+        "name": "Smart Watch",
+        "category": "Electronics",
+        "price": 299.99,
+        "description": "Feature-rich smartwatch with health monitoring and GPS",
+        "image": "smartwatch.jpg",
+        "stock": 75
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 89.99,
+        "description": "Portable Bluetooth speaker with excellent sound quality",
+        "image": "bluetooth_speaker.jpg",
+        "stock": 120
+    },
+    {
+        "name": "Gaming Mouse",
+        "category": "Electronics",
+        "price": 49.99,
+        "description": "High-precision gaming mouse with customizable buttons",
+        "image": "gaming_mouse.jpg",
+        "stock": 200
+    },
+    {
+        "name": "USB-C Hub",
+        "category": "Electronics",
+        "price": 39.99,
+        "description": "Multi-port USB-C hub with HDMI and USB 3.0 ports",
+        "image": "usb_hub.jpg",
+        "stock": 150
+    },
+    {
+        "name": "Wireless Charger",
+        "category": "Electronics",
+        "price": 29.99,
+        "description": "Fast wireless charging pad compatible with all Qi devices",
+        "image": "wireless_charger.jpg",
+        "stock": 180
+    },
+    {
+        "name": "External Hard Drive",
+        "category": "Electronics",
+        "price": 79.99,
+        "description": "1TB portable external hard drive with USB 3.0",
+        "image": "external_hdd.jpg",
+        "stock": 90
+    },
+    {
+        "name": "Webcam HD",
+        "category": "Electronics",
+        "price": 69.99,
+        "description": "1080p HD webcam with auto-focus and built-in microphone",
+        "image": "webcam.jpg",
+        "stock": 80
+    },
+    {
+        "name": "Smart TV 4K",
+        "category": "Electronics",
+        "price": 799.99,
+        "description": "55-inch 4K Ultra HD Smart TV with streaming apps",
+        "image": "smart_tv.jpg",
+        "stock": 30
+    },
+    {
+        "name": "Gaming Keyboard",
+        "category": "Electronics",
+        "price": 89.99,
+        "description": "RGB mechanical gaming keyboard with customizable keys",
+        "image": "gaming_keyboard.jpg",
+        "stock": 60
+    },
+    {
+        "name": "Portable Power Bank",
+        "category": "Electronics",
+        "price": 34.99,
+        "description": "10000mAh power bank with fast charging support",
+        "image": "power_bank.jpg",
+        "stock": 200
+    },
+    {
+        "name": "Smart Home Speaker",
+        "category": "Electronics",
+        "price": 129.99,
+        "description": "Voice-activated smart speaker with virtual assistant",
+        "image": "smart_speaker.jpg",
+        "stock": 85
+    },
+    {
+        "name": "Fitness Tracker",
+        "category": "Electronics",
+        "price": 59.99,
+        "description": "Water-resistant fitness tracker with heart rate monitor",
+        "image": "fitness_tracker.jpg",
+        "stock": 110
+    }
+]
